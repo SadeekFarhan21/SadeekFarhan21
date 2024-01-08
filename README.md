@@ -24,11 +24,64 @@ Brief overview of my professional background and career goals.
 
 ### 3. Education
 
-List of academic qualifications, including degrees, institutions, and graduation dates.
 
 ### 4. Work Experience
+- **The Ohio State University**
+  - *Undergraduate Researcher*
+  - Nov 2023 - Present (3 months)
+  - Columbus, Ohio Metropolitan Area
+  - Undergraduate Researcher under Dr. Best
+  - Skills: Statistical Data Analysis · Data Science
 
-Detailed information about my work history, including positions held, companies, and relevant responsibilities.
+### Spectrum
+- *Technical Analyst (Internship)*
+- Jun 2023 - Present (8 months)
+- Columbus, Ohio, United States
+- Collaborated cross-functionally for complex issue resolution, leveraging statistical methodologies and contributing to a 15% improvement in team satisfaction.
+- Demonstrated advanced research knowledge, consistently exceeding targets with a 10% increase in project milestones and academic standards through rigorous statistical analysis.
+- Skills: Communication · Business Understanding · Negotiation · Business Planning · Sales · Analytical Skills
+
+### Kaggle
+- *Data Analyst (Apprenticeship)*
+- Apr 2022 - Present (1 year 10 months)
+- San Francisco Bay Area, Remote
+- Utilized expertise in Kaggle datasets to analyze and extract valuable insights, driving data-driven decision-making and enhancing business performance.
+- Developed and implemented advanced machine learning models and algorithms using Kaggle datasets to solve complex problems and optimize business processes.
+- Collaborated with cross-functional teams to effectively communicate findings from Kaggle datasets.
+- Skills: Python · R · Machine Learning · Data Science · Git · GitHub · Data Analysis
+
+### Kaggle (Previous Role)
+- *Contributor*
+- Aug 2021 - Mar 2022 (8 months)
+- New York City Metropolitan Area, Hybrid
+- Skills: Python · Data Science
+
+### Sam's Club
+- *Retail Sales Specialist (Part-time)*
+- Jul 2022 - May 2023 (11 months)
+- Columbus, Ohio Metropolitan Area
+- Provided exceptional customer service, assisted customers with product selection, inquiries, and purchases.
+- Proactively engaged with customers to understand their needs and recommended suitable products or services.
+- Drove sales by meeting or exceeding individual sales targets and goals.
+- Skills: Communication · Business Understanding · Business-to-Business (B2B) · Customer Service
+
+### Harvard University
+- *Student Researcher (Apprenticeship)*
+- May 2022 - Jul 2022 (3 months)
+- Cambridge, Massachusetts, United States, Remote
+- Developed Dr. Kane's Harvard Class GOV 1005 with R coding language.
+- Conducted independent Data Analytics Research Project on the impact of different economic indices on the population of a country.
+- Skills: R · Data Science · Data Preparation · Trend Analysis · Data Analysis · Research
+
+### Kohl's
+- *Retail Sales Specialist (Seasonal)*
+- Apr 2022 - Jun 2022 (3 months)
+- Columbus, Ohio, United States
+- Served customers by assisting with product selection and providing exceptional service.
+- Drove sales through customer engagement, suggestive selling, and product knowledge.
+- Skills: Communication · Business-to-Business (B2B) · Customer Service
+
+
 
 ### 5. Skills
 
