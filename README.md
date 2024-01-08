@@ -1,156 +1,197 @@
-[![Farhan's stats](https://github-readme-stats.vercel.app/api?username=SadeekFarhan21)](https://github.com/SadeekFarhan21/github-readme-stats)
+# Computer Science Student | Full Stack Web Development | Data Science | Data Analytics
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1002&random=false&width=435&lines=I+am+a+Student;I+am+Computer+Scientist;I+am+an+Engineer" alt="Typing SVG" /></a>
 
-# Contact Information
+- 🌐 Computer Science student at The Ohio State University
+- 👨‍💻 Completed two internships, focusing on machine learning and web development projects
+- 🤖 Developed and implemented machine learning applications, integrating them into web projects
+- 😍 Passionate about exploring the intersection of AI and web development, with expertise in technologies like React, Node.js, and more.
 
-- Farhan Sadeek
-- sadeek.1@buckeyemail.osu.edu
-- Follow me on [Llinkedin](https://www.linkedin.com/in/farhansadeekde110/details/skills/)
-- Take a look at my [Github Repositories](https://github.com/SadeekFarhan21?tab=repositories&type=source)
+<h2>My stack :man_technologist:</h2>
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C#
+    </td>
+  </tr>
+  <tr>
+  <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+      <br>Django
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+      <br>Github
+    </td>
+    <td align="center" width="96"> 
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
+      <br>jQuery
+    </td>
+  </tr>
+ <tr>
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
+      <br>Nodejs
+      </td>
+      </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+      <br>PHP
+    </td>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+      <br>VsCode
+    </td>
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
+      <br>WordPress
+    </td>
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
+      <br>Vue
+    </td>
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
+      <br>Sass
+    </td>
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="MySQL" />
+      <br>GraphQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+ </tr>
+   <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="NextJS" />
+      <br>Nextjs
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS" />
+      <br>Nestjs
+      </td>
+      </td>
+    </td>
+    </td>
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=expressjs" width="48" height="48" alt="Expressjs" />
+      <br>Expressjs
+    </td>
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
+      <br>Flask
+    </td>
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+      <br>Firebase
+    </td>
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins" />
+      <br>Jenkins
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="Solidity" />
+      <br>Solidity
+    </td>
+ </tr>
+</table>
+<br><br>
+</div>
 
-### 2. Summary
+<h2>Github stats :bar_chart:</h2>
+<h4 align="center">Visitor's count :eyes:</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{SadeekFarhan21}/count.svg" alt="SadeekFarhan21 :: Visitor's Count" /></p>
 
-Brief overview of my professional background and career goals.
+<p align='center'>
+<img src='https://github-widgetbox.vercel.app/api/profile?username=SadeekFarhan21&data=followers,repositories,stars,commits' />
+</p>
 
-# Education 🎓
+<p align="center">
 
-## [The Ohio State University](https://ww.osu.edu)
+<!--
+<a href="https://github.com/SadeekFarhan21?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=SadeekFarhan21&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@SadeekFarhan21's github-readme-stats"/></a>
+-->
 
-- **Undergraduate, Mathematics and Computer Science**
-- *2023 - 2026*
-- **Grade:** 3.8
+<a href="https://github.com/SadeekFarhan21?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=SadeekFarhan21&theme=merko&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@SadeekFarhan21's github-readme-stats"/></a>
+<a href="https://github.com/SadeekFarhan21?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=SadeekFarhan21&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@SadeekFarhan21's github-readme-streak-stats"/></a>
 
-### Activities and Societies 🚀
-- [Competitive Programming](https://cpcosu.github.io/)
-- [Artificial Intelligence](https://www.osuaiclub.com/)
-- [Big Data & Analytics](https://bdaaosu.org/)
-- [Hack OHI/O](https://hack.osu.edu/)
+</p>
 
-### Relevant Coursework 📚
-- CSE 2321: Discrete Structures/Math
-- CSE 2231: Software Development and Design
-- CSE 2221: Software Components
-- CSE 2123: Data Structures
-- CSE 1223: Programming in Java
-- Math 2153: Multivariable Calculus
-- Math 1151 and Math 1152: Single Variable Calculus
-- Physics 1250 and 1251: Engineering Physics
+<!-- activity graph heroku-app start -->
+<p align="center">
+    <a href="https://wakatime.com/@SadeekFarhan21">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=SadeekFarhan21&theme=merko&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="SadeekFarhan21's activity graph">
+    </a>
+</p>
+<!-- activity graph heroku-app end -->
 
-## 💼 Work Experience
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadeekFarhan21&langs_count=10&theme=merko&layout=compact" width="38%" height="216px" alt="SadeekFarhan21 :: Top Langs" />
+<a href="https://github.com/SadeekFarhan21?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=SadeekFarhan21&theme=gitdimmed&no-frame=true&column=3&row=2"  width="38%" alt="@SadeekFarhan21's trophy stats"/></a>
+</p>
 
-### Spectrum 🌐
-- *Technical Analyst (Internship)*
-- Jun 2023 - Present (8 months)
-- Columbus, Ohio, United States
-  - Collaborated cross-functionally for complex issue resolution, leveraging statistical methodologies and contributing to a 15% improvement in team satisfaction.
-  - Demonstrated advanced research knowledge, consistently exceeding targets with a 10% increase in project milestones and academic standards through rigorous statistical analysis.
+<h2>Contact me :postbox:</h2>
+<div>
+  <a href = "mailto:whitehorse9021@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://join.skype.com/invite/qWHqVMM1RVZz" target="_blank"><img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" target="_blank"></a>
+  <a href="https://t.me/whitehorse199021" target="_blank"><img src="https://img.shields.io/badge/-telegram-red?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+</div>
 
-### Kaggle 🚀
-- *Data Analyst (Apprenticeship)*
-- Apr 2022 - Present (1 year 10 months)
-- San Francisco Bay Area, Remote
-  - Utilized expertise in Kaggle datasets to analyze and extract valuable insights, driving data-driven decision-making and enhancing business performance.
-  - Developed and implemented advanced machine learning models and algorithms using Kaggle datasets to solve complex problems and optimize business processes.
-  - Collaborated with cross-functional teams to effectively communicate findings from Kaggle datasets.
-
-### Sam's Club 🛒
-- *Retail Sales Specialist (Part-time)*
-- Jul 2022 - May 2023 (11 months)
-- Columbus, Ohio Metropolitan Area
-  - Provided exceptional customer service, assisted customers with product selection, inquiries, and purchases.
-  - Proactively engaged with customers to understand their needs and recommended suitable products or services.
-  - Drove sales by meeting or exceeding individual sales targets and goals.
-
-### Harvard University 🎓
-- *Student Researcher (Apprenticeship)*
-- May 2022 - Jul 2022 (3 months)
-- Cambridge, Massachusetts, United States, Remote
-  - Developed Dr. Kane's Harvard Class GOV 1005 with R coding language.
-  - Conducted an independent Data Analytics Research Project on the impact of different economic indices on the population of a country.
-
-### Kohl's 👗
-- *Retail Sales Specialist (Seasonal)*
-- Apr 2022 - Jun 2022 (3 months)
-- Columbus, Ohio, United States
-  - Served customers by assisting with product selection and providing exceptional service.
-  - Drove sales through customer engagement, suggestive selling, and product knowledge.
-
-
-
-# Skills
-
-## Programming Languages
-JavaScript | Python | Java | C++ | C# | Ruby | PHP | Swift | Kotlin | Go
-
-## Web Development
-HTML | CSS | React.js | Angular | Vue.js | Node.js | Express.js | Django | Flask
-
-## Database Management
-SQL | MySQL | PostgreSQL | MongoDB | Firebase
-
-## Version Control
-Git | GitHub | GitLab | Bitbucket
-
-## Software Development
-Agile Methodology | Scrum | Kanban | Software Design Patterns | Object-Oriented Programming (OOP) | Test-Driven Development (TDD) | Continuous Integration / Continuous Deployment (CI/CD) | Docker | Kubernetes | Jenkins | Ansible | Terraform
-
-## Mobile App Development
-React Native | Flutter | Swift (iOS) | Kotlin (Android)
-
-## Back-End Development
-Node.js | Express.js | Django | Flask | Ruby on Rails | Spring (Java) | ASP.NET (C#)
-
-## Front-End Development
-HTML | CSS | JavaScript | React.js | Angular | Vue.js | Sass/Less
-
-## APIs and Microservices
-RESTful APIs | GraphQL | Microservices Architecture
-
-## Cloud Computing
-Amazon Web Services (AWS) | Microsoft Azure | Google Cloud Platform (GCP)
-
-## DevOps
-Docker | Kubernetes | Jenkins | Ansible | Terraform
-
-## Testing
-Unit Testing | Integration Testing | End-to-End Testing | Test Automation | Selenium | Jest
-
-## Security
-Web Security | OWASP Top 10 | SSL/TLS | Security Best Practices
-
-## Data Science and Data Analysis
-Statistical Analysis | Data Exploration | Data Cleaning | Data Wrangling | Data Visualization | Machine Learning | Predictive Modeling | Feature Engineering | Supervised Learning | Unsupervised Learning | Natural Language Processing (NLP) | Time Series Analysis | Deep Learning | Big Data Technologies (e.g., Hadoop, Spark) | Data Mining | Exploratory Data Analysis (EDA) | A/B Testing | Bayesian Statistics | Quantitative Analysis | Database Management (SQL and NoSQL) | Google Analytics | Tableau or other BI Tools | Excel or Google Sheets | Data Governance and Ethics | Data Storytelling
-
-## Other Tools and Technologies
-JIRA | VS Code | Sublime Text | Postman | Eclipse | IntelliJ IDEA
-
-## Soft Skills
-Problem Solving | Critical Thinking | Communication Skills | Team Collaboration | Adaptability | Time Management | Attention to Detail | Continuous Learning
-
-### 6. Projects
-
-Highlights of key projects, including descriptions, technologies used, and outcomes.
-
-### 7. Certifications
-
-Any relevant certifications obtained.
-
-### 8. Awards and Honors
-
-Recognition or awards received for professional achievements.
-
-## How to View
-
-Choose the format that suits your preference:
-
-- **PDF:** Open `resume.pdf` using your preferred PDF viewer.
-- **Word:** Open `resume.docx` using Microsoft Word or a compatible word processor.
-- **Text:** Open `resume.txt` using a text editor for a simplified, plain text version.
-
-## Contributing
-
-Feel free to suggest improvements or report any issues by creating an issue or submitting a pull request.
-
-## License
-
-This resume is provided under the [MIT License](./LICENSE). Feel free to use, modify, and distribute it according to the terms of the license.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
