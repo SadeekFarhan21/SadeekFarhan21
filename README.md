@@ -1,22 +1,12 @@
-# Resume README
-
-## Overview
-
-This repository contains my professional resume in different formats for easy accessibility.
-
-## Files
-
 [![Farhan's stats](https://github-readme-stats.vercel.app/api?username=SadeekFarhan21)](https://github.com/SadeekFarhan21/github-readme-stats)
 
-## Sections
 
-### 1. Contact Information
+# Contact Information
 
-- Full Name
-- Phone Number
-- Email Address
-- LinkedIn Profile (optional)
-- GitHub Profile (optional)
+- Farhan Sadeek
+- sadeek.1@buckeyemail.osu.edu
+- Follow me on [Llinkedin](https://www.linkedin.com/in/farhansadeekde110/details/skills/)
+- Take a look at my [Github Repositories](https://github.com/SadeekFarhan21?tab=repositories&type=source)
 
 ### 2. Summary
 
@@ -24,17 +14,17 @@ Brief overview of my professional background and career goals.
 
 # Education 🎓
 
-## The Ohio State University
+## [The Ohio State University](https://ww.osu.edu)
 
 - **Undergraduate, Mathematics and Computer Science**
 - *2023 - 2026*
 - **Grade:** 3.8
 
 ### Activities and Societies 🚀
-- Competitive Programming
-- Artificial Intelligence
-- Big Data & Analytics
-- Hack OHI/O
+- [Competitive Programming](https://cpcosu.github.io/)
+- [Artificial Intelligence](https://www.osuaiclub.com/)
+- [Big Data & Analytics](https://bdaaosu.org/)
+- [Hack OHI/O](https://hack.osu.edu/)
 
 ### Relevant Coursework 📚
 - CSE 2321: Discrete Structures/Math
@@ -46,13 +36,6 @@ Brief overview of my professional background and career goals.
 - Math 1151 and Math 1152: Single Variable Calculus
 - Physics 1250 and 1251: Engineering Physics
 
-### Skills 💻
-- JUnit
-- Model-View-Controller (MVC)
-- Java
-- Research
-
-
 ## 💼 Work Experience
 
 ### Spectrum 🌐
@@ -61,7 +44,6 @@ Brief overview of my professional background and career goals.
 - Columbus, Ohio, United States
   - Collaborated cross-functionally for complex issue resolution, leveraging statistical methodologies and contributing to a 15% improvement in team satisfaction.
   - Demonstrated advanced research knowledge, consistently exceeding targets with a 10% increase in project milestones and academic standards through rigorous statistical analysis.
-  - **Skills:** Communication · Business Understanding · Negotiation · Business Planning · Sales · Analytical Skills
 
 ### Kaggle 🚀
 - *Data Analyst (Apprenticeship)*
@@ -70,7 +52,6 @@ Brief overview of my professional background and career goals.
   - Utilized expertise in Kaggle datasets to analyze and extract valuable insights, driving data-driven decision-making and enhancing business performance.
   - Developed and implemented advanced machine learning models and algorithms using Kaggle datasets to solve complex problems and optimize business processes.
   - Collaborated with cross-functional teams to effectively communicate findings from Kaggle datasets.
-  - **Skills:** Python · R · Machine Learning · Data Science · Git · GitHub · Data Analysis
 
 ### Sam's Club 🛒
 - *Retail Sales Specialist (Part-time)*
@@ -79,7 +60,6 @@ Brief overview of my professional background and career goals.
   - Provided exceptional customer service, assisted customers with product selection, inquiries, and purchases.
   - Proactively engaged with customers to understand their needs and recommended suitable products or services.
   - Drove sales by meeting or exceeding individual sales targets and goals.
-  - **Skills:** Communication · Business Understanding · Business-to-Business (B2B) · Customer Service
 
 ### Harvard University 🎓
 - *Student Researcher (Apprenticeship)*
@@ -87,7 +67,6 @@ Brief overview of my professional background and career goals.
 - Cambridge, Massachusetts, United States, Remote
   - Developed Dr. Kane's Harvard Class GOV 1005 with R coding language.
   - Conducted an independent Data Analytics Research Project on the impact of different economic indices on the population of a country.
-  - **Skills:** R · Data Science · Data Preparation · Trend Analysis · Data Analysis · Research
 
 ### Kohl's 👗
 - *Retail Sales Specialist (Seasonal)*
@@ -95,7 +74,6 @@ Brief overview of my professional background and career goals.
 - Columbus, Ohio, United States
   - Served customers by assisting with product selection and providing exceptional service.
   - Drove sales through customer engagement, suggestive selling, and product knowledge.
-  - **Skills:** Communication · Business-to-Business (B2B) · Customer Service
 
 
 
