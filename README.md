@@ -6,9 +6,7 @@ This repository contains my professional resume in different formats for easy ac
 
 ## Files
 
-- **[resume.pdf](./resume.pdf):** PDF version
-- **[resume.docx](./resume.docx):** Word version
-- **[resume.txt](./resume.txt):** Plain text version
+[![Farhan's stats](https://github-readme-stats.vercel.app/api?username=SadeekFarhan21)](https://github.com/SadeekFarhan21/github-readme-stats)
 
 ## Sections
 
