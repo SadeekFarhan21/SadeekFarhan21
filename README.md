@@ -1,13 +1,13 @@
 # Computer Science Student | Full Stack Web Development | Data Science | Data Analytics
 
-<a href="htnexttps://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1002&random=false&width=435&lines=I+am+a+Student;I+am+Computer+Scientist;I+am+an+Engineer" alt="Typing SVG" /></a>
+<a href="htnexttps://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1002&random=false&width=435&lines=I+am+a+Student . . .;I+am+Computer+Scientist . . . ;I+am+an+Engineer . . . " alt="Typing SVG" /></a>
 
 - 🌐 Computer Science student at The Ohio State University
 - 👨‍💻 Completed two internships, focusing on machine learning and web development projects
 - 🤖 Developed and implemented machine learning applications, integrating them into web projects
 - 😍 Passionate about exploring the intersection of AI and web development, with expertise in technologies like React, Node.js, and more.
 
-<h2 align="center">My Tech Stack :man_technologist:</h2>
+## My Tech Stack 👨‍💻
 
 <div align="center">
   <table>
@@ -82,7 +82,7 @@
   </table>
 </div>
 
-<h2>Github stats :bar_chart:</h2>
+# My GitHub Stats 📊
 <h4 align="center">Visitor's count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{SadeekFarhan21}/count.svg" alt="SadeekFarhan21 :: Visitor's Count" /></p>
 
@@ -92,9 +92,6 @@
 
 <p align="center">
 
-<!--
-<a href="https://github.com/SadeekFarhan21?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=SadeekFarhan21&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@SadeekFarhan21's github-readme-stats"/></a>
--->
 
 <a href="https://github.com/SadeekFarhan21?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=SadeekFarhan21&theme=merko&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@SadeekFarhan21's github-readme-stats"/></a>
 <a href="https://github.com/SadeekFarhan21?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=SadeekFarhan21&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@SadeekFarhan21's github-readme-streak-stats"/></a>
@@ -114,11 +111,10 @@
 <a href="https://github.com/SadeekFarhan21?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=SadeekFarhan21&theme=gitdimmed&no-frame=true&column=3&row=2"  width="38%" alt="@SadeekFarhan21's trophy stats"/></a>
 </p>
 
-<h2>Contact me :postbox:</h2>
+## Contact me 📮
 <div>
-  <a href = "mailto:whitehorse9021@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://join.skype.com/invite/qWHqVMM1RVZz" target="_blank"><img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" target="_blank"></a>
-  <a href="https://t.me/whitehorse199021" target="_blank"><img src="https://img.shields.io/badge/-telegram-red?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:sadeek.1@buckeyemail.osu.edu"><img src="https://img.shields.io/badge/Outlook-Click_here-blue?style=flat&logo=microsoft-outlook" target="_blank"></a>
+
 </div>
 
 <p align="center">
