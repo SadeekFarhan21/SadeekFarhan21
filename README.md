@@ -77,63 +77,55 @@ Brief overview of my professional background and career goals.
 
 
 
-# Skills 🚀
+# Skills
 
 ## Programming Languages
-- Python (Programming Language)
-- R (Programming Language)
-- JavaScript
-- Java
-- C++
-- C (Programming Language)
+JavaScript | Python | Java | C++ | C# | Ruby | PHP | Swift | Kotlin | Go
 
-## Data Science
-- Data Science
-- Data Analysis
-- Data Preparation
-- Trend Analysis
-- Business Understanding
-- Analytics
-- Machine Learning
-- Machine Learning Algorithms
-- Learning Technology
-- Pattern Recognition
-- Data-driven Decision Making
+## Web Development
+HTML | CSS | React.js | Angular | Vue.js | Node.js | Express.js | Django | Flask
+
+## Database Management
+SQL | MySQL | PostgreSQL | MongoDB | Firebase
+
+## Version Control
+Git | GitHub | GitLab | Bitbucket
 
 ## Software Development
-- Front-End Development
-- Software Development
-- GitHub
-- Git
+Agile Methodology | Scrum | Kanban | Software Design Patterns | Object-Oriented Programming (OOP) | Test-Driven Development (TDD) | Continuous Integration / Continuous Deployment (CI/CD) | Docker | Kubernetes | Jenkins | Ansible | Terraform
 
-## Database
-- SQL
+## Mobile App Development
+React Native | Flutter | Swift (iOS) | Kotlin (Android)
 
-## Business and Communication
-- Business Analytics
-- Strategic Communications
-- Artificial Intelligence (AI)
-- Computer Vision
-- Communication
-- Business-to-Business (B2B)
-- Negotiation
-- Business Planning
-- Sales
-- Analytical Skills
-- Teamwork
-- Problem Solving
-- Interpersonal Communication
+## Back-End Development
+Node.js | Express.js | Django | Flask | Ruby on Rails | Spring (Java) | ASP.NET (C#)
 
-## Tools and Technologies
-- Git
-- GitHub
+## Front-End Development
+HTML | CSS | JavaScript | React.js | Angular | Vue.js | Sass/Less
 
-## Academic and Research
-- Mathematics
-- Physics
-- Research
-- Learning
-- Tutoring
+## APIs and Microservices
+RESTful APIs | GraphQL | Microservices Architecture
+
+## Cloud Computing
+Amazon Web Services (AWS) | Microsoft Azure | Google Cloud Platform (GCP)
+
+## DevOps
+Docker | Kubernetes | Jenkins | Ansible | Terraform
+
+## Testing
+Unit Testing | Integration Testing | End-to-End Testing | Test Automation | Selenium | Jest
+
+## Security
+Web Security | OWASP Top 10 | SSL/TLS | Security Best Practices
+
+## Data Science and Data Analysis
+Statistical Analysis | Data Exploration | Data Cleaning | Data Wrangling | Data Visualization | Machine Learning | Predictive Modeling | Feature Engineering | Supervised Learning | Unsupervised Learning | Natural Language Processing (NLP) | Time Series Analysis | Deep Learning | Big Data Technologies (e.g., Hadoop, Spark) | Data Mining | Exploratory Data Analysis (EDA) | A/B Testing | Bayesian Statistics | Quantitative Analysis | Database Management (SQL and NoSQL) | Google Analytics | Tableau or other BI Tools | Excel or Google Sheets | Data Governance and Ethics | Data Storytelling
+
+## Other Tools and Technologies
+JIRA | VS Code | Sublime Text | Postman | Eclipse | IntelliJ IDEA
+
+## Soft Skills
+Problem Solving | Critical Thinking | Communication Skills | Team Collaboration | Adaptability | Time Management | Attention to Detail | Continuous Learning
 
 ### 6. Projects
 
