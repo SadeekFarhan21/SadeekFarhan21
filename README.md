@@ -22,7 +22,35 @@ This repository contains my professional resume in different formats for easy ac
 
 Brief overview of my professional background and career goals.
 
-### 3. Education
+# Education 🎓
+
+## The Ohio State University
+
+- **Undergraduate, Mathematics and Computer Science**
+- *2023 - 2026*
+- **Grade:** 3.8
+
+### Activities and Societies 🚀
+- Competitive Programming
+- Artificial Intelligence
+- Big Data & Analytics
+- Hack OHI/O
+
+### Relevant Coursework 📚
+- CSE 2321: Discrete Structures/Math
+- CSE 2231: Software Development and Design
+- CSE 2221: Software Components
+- CSE 2123: Data Structures
+- CSE 1223: Programming in Java
+- Math 2153: Multivariable Calculus
+- Math 1151 and Math 1152: Single Variable Calculus
+- Physics 1250 and 1251: Engineering Physics
+
+### Skills 💻
+- JUnit
+- Model-View-Controller (MVC)
+- Java
+- Research
 
 
 ## 💼 Work Experience
