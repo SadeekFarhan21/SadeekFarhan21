@@ -98,9 +98,64 @@ Brief overview of my professional background and career goals.
   - **Skills:** Communication · Business-to-Business (B2B) · Customer Service
 
 
-### 5. Skills
 
-Comprehensive list of technical and soft skills.
+# Skills 🚀
+
+## Programming Languages
+- Python (Programming Language)
+- R (Programming Language)
+- JavaScript
+- Java
+- C++
+- C (Programming Language)
+
+## Data Science
+- Data Science
+- Data Analysis
+- Data Preparation
+- Trend Analysis
+- Business Understanding
+- Analytics
+- Machine Learning
+- Machine Learning Algorithms
+- Learning Technology
+- Pattern Recognition
+- Data-driven Decision Making
+
+## Software Development
+- Front-End Development
+- Software Development
+- GitHub
+- Git
+
+## Database
+- SQL
+
+## Business and Communication
+- Business Analytics
+- Strategic Communications
+- Artificial Intelligence (AI)
+- Computer Vision
+- Communication
+- Business-to-Business (B2B)
+- Negotiation
+- Business Planning
+- Sales
+- Analytical Skills
+- Teamwork
+- Problem Solving
+- Interpersonal Communication
+
+## Tools and Technologies
+- Git
+- GitHub
+
+## Academic and Research
+- Mathematics
+- Physics
+- Research
+- Learning
+- Tutoring
 
 ### 6. Projects
 
