@@ -100,7 +100,7 @@
 
 <!-- activity graph heroku-app start -->
 <p align="center">
-    <a href="https://wakatime.com/@SadeekFarhan21">
+    <a href="[https://wakatime.com/@SadeekFarhan21](https://github-readme-activity-graph.vercel.app/graph?username=SadeekFarhan21&theme=merko&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo)">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=SadeekFarhan21&theme=merko&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="SadeekFarhan21's activity graph">
     </a>
 </p>
