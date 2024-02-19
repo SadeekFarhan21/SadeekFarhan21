@@ -1,6 +1,6 @@
 # Computer Science Student | Full Stack Web Development | Data Science | Data Analytics
 
-<a href="htnexttps://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1002&random=false&width=435&lines=I+am+a+Student . . .;I+am+Computer+Scientist . . . ;I+am+an+Engineer . . . " alt="Typing SVG" /></a>
+<a href="htnexttps://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1002&random=false&width=435&lines=I+am+a+Student . . .;I+am+a+C+o+m+p+u+t+er+Scientist . . . ;I+am+an+Engineer . . . " alt="Typing SVG" /></a>
 
 - 🌐 Computer Science student at The Ohio State University
 - 👨‍💻 Completed two internships, focusing on machine learning and web development projects
